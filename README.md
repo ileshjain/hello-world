@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 
 type test !!!!!!!!!!!!!!!!
+
+secondary type test
